@@ -1,6 +1,6 @@
 # Band Rehersal Calendar
  
-<img src="https://karol-jedrzejak.github.io/static/media/4.2bc8f2182d32d0eb2ede.jpg" height="400">
+<img src="https://github.com/karol-jedrzejak/karol-jedrzejak.github.io/blob/master/src/assets/projects/4.jpg" height="400">
 
 ## About Project
 
